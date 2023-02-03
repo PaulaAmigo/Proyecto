@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap');
+* {
+    background-color: #93BCDF;
+    font-family: 'Roboto Mono', monospace;
+    margin: 0ch;
+}
+*{
+    outline: 1px solid blue !important;
+  }
+.titulo{
+    display: flex;
+    flex-direction: column;
+    color: aliceblue;
+    align-items: center;
+    justify-content: center;
+}
+.welcome , .titulo{
+    
+    
+}
+.singIn{
+    
+
+}
+.word{
+    background-color: transparent;
+}
+.boxOne, .boxTwo{
+    background-color: white;
+    border-radius: 20px;
+
+}
+.btnLogin{
+    
+    cursor: pointer;
+    border-radius: 30px;
+    color: aliceblue;
+    width:90px;
+    height: 40px;
+}
